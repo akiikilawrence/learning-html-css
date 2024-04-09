@@ -29,7 +29,8 @@ font-size: 70px;
 header img{
     border-radius:900px;
     width:300px;
-    border:20px solid gray;
+    height: 300px;
+    border:10px solid gray;
 }
 main{
     max-width: 800px;
@@ -37,7 +38,7 @@ main{
     padding: 20px;
 }
 main img{
-    max-width: 100%;
+    width: 100%;
 }
 h2{
     font-size: 35px;
